@@ -1,5 +1,5 @@
 # website_for_a_healthcare
-Here I am trying to make this website using HTML and CSS. Just using front end concept. 
+Here I am trying to make this website using HTML and internal, inline CSS and script because of some calculation. Just using front end concept. 
 I have attached some of screenshots of my web application.
 
 
